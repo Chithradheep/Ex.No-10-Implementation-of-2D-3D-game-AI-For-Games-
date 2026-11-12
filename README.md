@@ -1,6 +1,6 @@
 # Ex.No: 10  Implementation of 2D/3D game -------------------
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### NAME : Chithradheep R                                                                           
+### REGISTER NUMBER : 2305002003
 ### AIM: 
 To develop a game -------------------------in Unity 
 ### Algorithm:
